@@ -13,7 +13,7 @@ class SampleController extends Controller
      //        ? Carbon::now(str_replace('-', '/', $timezone))
      //        : Carbon::now();
     
-    	return view('sample::index', array());
+    	return view('sample::index', ['data'=> "laravel 5.4"]);
 
     }
 }
