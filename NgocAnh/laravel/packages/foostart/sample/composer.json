@@ -1,0 +1,14 @@
+{
+    "name": "anhyumi/sample",
+    "description": "Create overview sample can intergrate other project",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anhyumi",
+            "email": "poelun208@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
